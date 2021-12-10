@@ -1,0 +1,15 @@
+.App {
+  color: blue;
+  /* font-size: 8vw;
+  text-align: center; */
+} 
+
+.custom-file-input {
+  border: 1px blue solid;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.des {
+  font-size: 3vw;
+}
