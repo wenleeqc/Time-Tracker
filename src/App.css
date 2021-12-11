@@ -5,11 +5,11 @@
 } 
 
 .custom-file-input {
-  border: 1px blue solid;
+  border: 1px white solid;
   border-radius: 5px;
   width: 100%;
 }
 
 .des {
-  font-size: 3vw;
+  font-size: 2vw;
 }
