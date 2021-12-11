@@ -37,8 +37,8 @@ function CsvReader() {
         <div>
             <form onSubmit={onSubmit}>
                 <div className="custom-file">
-                    <label className="custom-file-label mb-1" htmlFor="customFile">Choose file:</label>
-                    <input type="file" className="custom-file-input" id="customFile" onChange={onChange} />
+                    <label className="custom-file-label mb-1 text-white" htmlFor="customFile">Choose file:</label>
+                    <input type="file" className="custom-file-input text-white" id="customFile" onChange={onChange} />
                     
                 </div>
 

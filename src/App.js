@@ -5,6 +5,8 @@ import CsvReader from './components/CsvReader';
 import Grid from './components/Grid'
 import Footer from './components/Footer'
 import './App.css';
+//import url from "./stopwatch-image.png";
+
 //changes to imports 
 import SecurityIcon from '@material-ui/icons/Security';
 import EventNoteIcon from '@material-ui/icons/EventNote';
@@ -65,8 +67,8 @@ function App() {
 
   return (
     <div className="App container mt-4">
-      <h1 className="display-1 text-center mb-4">Time Tracker</h1>
-      <h2 className="display-6 des text-center mb-4">Convert your browser history into a beautiful chart. Just upload a CSV file.</h2>
+      <h1 className="display-3 text-center mb-4 text-white">Time Tracker</h1>
+      <h2 className="display-6 des text-center mb-4 text-white">Convert your browser history into a beautiful chart. Just upload a CSV file.</h2>
       <CsvReader />
     </div>
   );
