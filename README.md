@@ -6,7 +6,7 @@ People have had difficulty being productive with online learning due to COVID-19
 ## Solution
 Converts browsing history in CSV format into a chart with Chartjs.
 
-# How to use 
+## How to use 
 Run server:
 
 - npm start in api folder
